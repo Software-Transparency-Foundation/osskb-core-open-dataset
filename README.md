@@ -1,6 +1,6 @@
 # What is osskb-core-open-dataset
 
-osskb-core-open-dataset, published under CC0 license, contains the fingerprints corresponding to the 2 million most used GitHub repositories, representing the core dataset of the Open Source Knowledge Base, OSSKB, which powers osskb.org.
+osskb-core-open-dataset, published under CC0 license, contains the fingerprints corresponding to the 2 million most used GitHub repositories, representing the core dataset of the Open Source Knowledge Base (OSSKB) which powers [osskb.org](#about-osskborg).
 
 * Access osskb-core-open-dataset FTP server: ***ftp://osskb.st.foundation***
 * Check stf-plagicheck [repository](https://github.com/Software-Transparency-Foundation/stf-plagicheck)
