@@ -10,7 +10,7 @@ This open data set can be used along with stf-plagicheck to detect code similari
 
 * Check stf-plagicheck [repository](https://github.com/Software-Transparency-Foundation/stf-plagicheck)
 
-Both, osskb-core-open-dataset and stf-plagicheck are contributions from STF Strategic Member SCANOSS in response to the findings of Professor [Óscar Enrique Goñi](https://github.com/scanoss-qg), whose [research](https://www.softwaretransparency.org/similarity-detection-on-llm), highlights the emergence of code plagiarism risks in LLM-generated code.
+Both, osskb-core-open-dataset and stf-plagicheck are contributions from STF [Strategic Member SCANOSS](https://www.softwaretransparency.org/membership) in response to the findings of Professor [Óscar Enrique Goñi](https://github.com/scanoss-qg), whose [research](https://www.softwaretransparency.org/similarity-detection-on-llm), highlights the emergence of code plagiarism risks in LLM-generated code.
 
 ## About osskb.org
 
